@@ -1,0 +1,1 @@
+{"name":"Local: kruskal","url":"e:\\2-2\\DSA\\03-DSU\\kruskal.cpp","tests":[{"id":1734593702487,"input":"20 5\n17 1 2\n15 3 4\n1 1 3\n16 4 5\n9 7 8","output":"1 1 3\n9 7 8\n15 3 4\n16 4 5\n17 1 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\2-2\\DSA\\03-DSU\\kruskal.cpp","group":"local","local":true}
