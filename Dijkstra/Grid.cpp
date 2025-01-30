@@ -40,6 +40,7 @@ void dijkstra(int x, int y)
 
             if (!isValid(child_x, child_y))
                 continue;
+
             if (dist[v_x][v_y] + grid[child_x][child_y] < dist[child_x][child_y])
             {
                 dist[child_x][child_y] = dist[v_x][v_y] + grid[child_x][child_y];
